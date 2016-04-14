@@ -1,5 +1,5 @@
 # BOT DEPENDENCIES #
-git+https://github.com/PrinterElf/hangoutsbot.git
+git+https://github.com/PrinterElf/hangups.git
 appdirs
 asyncio
 jsonrpclib-pelix
